@@ -3,3 +3,5 @@ Add new text
 Signup issue
 
 Add new line - bugfix/forgetpassword
+
+Edit on feature branch
